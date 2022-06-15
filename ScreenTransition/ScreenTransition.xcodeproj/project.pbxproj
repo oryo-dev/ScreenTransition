@@ -13,6 +13,7 @@
 		4B69777F285A673B006A2B83 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B69777D285A673B006A2B83 /* Main.storyboard */; };
 		4B697781285A673B006A2B83 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B697780285A673B006A2B83 /* Assets.xcassets */; };
 		4B697784285A673B006A2B83 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B697782285A673B006A2B83 /* LaunchScreen.storyboard */; };
+		4B69778C285A6937006A2B83 /* ModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B69778B285A6937006A2B83 /* ModalViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4B697780285A673B006A2B83 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B697783285A673B006A2B83 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B697785285A673B006A2B83 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B69778B285A6937006A2B83 /* ModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				4B697779285A673B006A2B83 /* SceneDelegate.swift */,
 				4B69777B285A673B006A2B83 /* ViewController.swift */,
 				4B69777D285A673B006A2B83 /* Main.storyboard */,
+				4B69778B285A6937006A2B83 /* ModalViewController.swift */,
 				4B697780285A673B006A2B83 /* Assets.xcassets */,
 				4B697782285A673B006A2B83 /* LaunchScreen.storyboard */,
 				4B697785285A673B006A2B83 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B69778C285A6937006A2B83 /* ModalViewController.swift in Sources */,
 				4B69777C285A673B006A2B83 /* ViewController.swift in Sources */,
 				4B697778285A673B006A2B83 /* AppDelegate.swift in Sources */,
 				4B69777A285A673B006A2B83 /* SceneDelegate.swift in Sources */,
